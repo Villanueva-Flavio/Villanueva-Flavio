@@ -1,7 +1,7 @@
 ![ezgif-5-e8f284e3b8](https://user-images.githubusercontent.com/78744163/178334750-f3884cac-2354-4dee-bb3c-e09030484a84.gif)
 
 
-I'm a programmer who loves the challenges and tryies to learn in the process, with C/C++, PHP, SQL, Python, etc.
+I'm a programmer who loves the challenges and tries to learn in the process, with C/C++, PHP, SQL, Python, etc.
 I love playing videogames and watch anime, so you may see some of my projects with a little influence from those topics.
 They often call me by my nick "Pozzard", so you may see projects like Bonzzard (Bonshot + Pozzard) that are contribution with other people and friends.
 
