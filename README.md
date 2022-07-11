@@ -3,6 +3,7 @@
 
 I'm a programmer who loves the challenges and tryies to learn in the process, with C/C++, PHP, SQL, Python, etc.
 I love playing videogames and watch anime, so you may see some of my projects with a little influence from those topics.
+They often call me by my nick "Pozzard", so you may see projects like Bonzzard (Bonshot + Pozzard) that are contribution with other people and friends.
 
 Hope you enjoy my profile :D
 
